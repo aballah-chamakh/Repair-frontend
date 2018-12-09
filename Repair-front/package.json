@@ -1,0 +1,25 @@
+{
+  "name": "dolino",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "^16.4.0",
+    "react-bootstrap-modal": "^4.1.1",
+    "react-dom": "^16.4.0",
+    "react-highlight": "^0.12.0",
+    "react-highlight.js": "^1.0.7",
+    "react-html-parser": "^2.0.2",
+    "react-motion": "^0.5.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
